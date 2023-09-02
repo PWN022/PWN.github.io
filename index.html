@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-
+<!DOCTYPE html>
+<html>
 <style> 
-    .text { 
+    p{ 
         width: 200px; 
         white-space: nowrap; 
         overflow: hidden; 
@@ -16,7 +17,8 @@ layout: default
       <li>
           <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p class="test">{{ post.content | strip_html | truncatewords:50 }}</p>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
       </li>
     {% endfor %}
 </ul>
+</html>
