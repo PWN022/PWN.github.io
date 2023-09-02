@@ -5,5 +5,17 @@ layout: default
 <article>
   <h2>{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+  <!DOCTYPE html>
+<html>
+<style> 
+    .text { 
+        width: 200px; 
+        white-space: nowrap; 
+        overflow: hidden; 
+        text-overflow: ellipsis; 
+    } 
+</style> 
+<div class="text">
   {{ content }}
+</div>
 </article>
