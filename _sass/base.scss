@@ -91,6 +91,8 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
+   overflow: hidden; 
+   text-overflow: ellipsis;
 }
 section img {
   max-width: 100%
