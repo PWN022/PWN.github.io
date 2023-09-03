@@ -9,7 +9,7 @@ hello,world!
       border-radius: 50%;
     }
   </style>
-<img src = "../assets/bkg.png" class="profile-pic">
+<img src = "../assets/A.jpg" class="profile-pic">
 </html>
 ~~~
 I'm pwn022,a student,
