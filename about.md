@@ -13,7 +13,7 @@ title: About
     .nname{
       display: flex;
       align-items: center;
-      font-size: 20px;
+      font-size: 18px;
       font-weight: bold;
       justify-content: center;
       line-height: 0;
