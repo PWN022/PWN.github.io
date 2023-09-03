@@ -2,7 +2,10 @@
 layout: page
 title: About
 ---
-
+<!DOCUMENT html>
+<html>
+hello,world!
+</html>
 ~~~
 I'm pwn022,a student,
 this blog is mainly used to record my daily study.   
