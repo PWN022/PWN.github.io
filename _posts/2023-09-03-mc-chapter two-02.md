@@ -166,7 +166,7 @@ RESET后，总是让cs=0FFFFH，其余都是0，所以物理地址=cs*16+IP=0FFF
 
 <img src="https://cdn.jsdelivr.net/gh/PWN022/POFMC/my_screenshot/Screenshot%202023-09-01%20at%2011.44.04.png" alt="Screenshot 2023-09-01 at 11.44.04" style="zoom:33%;" />
 
-> <img src="https://cdn.jsdelivr.net/gh/PWN022/POFMC/my_screenshot/Screenshot%202023-09-01%20at%2011.49.00.png" alt="Screenshot 2023-09-01 at 11.49.00" style="zoom: 25%;" />
+> <img src="https://cdn.jsdelivr.net/gh/PWN022/POFMC/my_screenshot/Screenshot%202023-09-01%20at%2011.49.00.png" alt="Screenshot 2023-09-01 at 11.49.00" style="zoom: 25%;" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/PWN022/POFMC/my_screenshot/Screenshot%202023-09-01%20at%2011.54.53.png" alt="Screenshot 2023-09-01 at 11.54.53" style="zoom:25%;" />
 >
 > 3片地址锁存器8282：8入8出，因为有20根地址线，所以需要3片地址锁存器。
