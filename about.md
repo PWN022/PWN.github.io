@@ -6,10 +6,19 @@ title: About
 hello,world!
   <style>
     .profile-pic{
+      width: 50%;
+      display: block;
+      margin: auto;
       border-radius: 50%;
+    }
+    .nname{
+      margin: auto;
+      font-size: 20px;
+      font-weight: blod;
     }
   </style>
 <img src = "../assets/A.jpg" class="profile-pic">
+<p class="nname">PWN022</p>
 </html>
 ~~~
 I'm pwn022,a student,
