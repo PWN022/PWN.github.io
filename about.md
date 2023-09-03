@@ -16,6 +16,8 @@ title: About
       font-size: 20px;
       font-weight: bold;
       justify-content: center;
+      line-height: 0;
+      padding-bottom: 18px;
     }
   </style>
 <img src = "../assets/A.jpg" class="profile-pic">
