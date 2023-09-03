@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!DOCUMENT html>
+<html>
+  <style type="text/css">
+    .by-line{
+      line-height = 1.5;
+      font-weight = blod;
+    }
+    
+  </style>
+
 <article>
   <h2>{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}<br/></time>
@@ -9,3 +19,6 @@ layout: default
   {{ content }}
 
 </article>
+
+
+  </html>
