@@ -14,8 +14,8 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}<br/></time>
-
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+  <br/><br/>
   {{ content }}
 
 </article>
