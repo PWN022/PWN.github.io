@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 <html>
-hello,world!
   <style>
     .profile-pic{
       width: 50%;
