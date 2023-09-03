@@ -55,8 +55,8 @@ TI状态：总线空闲周期。
 传输有三种类型：输出、输入、双向（可输入和输出）
 三态：可以通过一个大的电阻阻断内外信号的传送。CPU内部的状态与外部相互隔离，“悬浮态”。
 
-数字逻辑电路：https://www.bilibili.com/video/BV1H54y1k7kM/
-数字电子技术：https://www.bilibili.com/video/BV1Vx411s7CE/
+数字逻辑电路：<a href="https://www.bilibili.com/video/BV1H54y1k7kM/">https://www.bilibili.com/video/BV1H54y1k7kM</a><br/>
+数字电子技术：<a href="https://www.bilibili.com/video/BV1Vx411s7CE/">https://www.bilibili.com/video/BV1Vx411s7CE</a>
 
 > <img src="https://cdn.jsdelivr.net/gh/PWN022/POFMC/my_screenshot/Screenshot 2023-08-28 at 10.43.24.png" alt="Screenshot 2023-08-28 at 10.43.24" style="zoom:33%;" />
 >
