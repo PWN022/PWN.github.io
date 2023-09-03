@@ -2,9 +2,9 @@
 layout: page
 title: About
 ---
-<!DOCUMENT html>
 <html>
 hello,world!
+<img src = "../assets/bkg.png">
 </html>
 ~~~
 I'm pwn022,a student,
